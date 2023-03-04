@@ -5,7 +5,7 @@ Circle API Collection Allow Users To Perform A Lot Of Task. This Repo Contains G
 - stackathon - @stackup.txt: Contains the video link for stackthon submission!
 ---
 
-### IMPORTANT LINKS USED IN TUTORIAL
+### IMPORTANT LINKS USED IN TUTORIAL - Manually Open Tabs -> Right Click + Open In New Window
 - YOUTUBE VIDEO : <a href="https://youtu.be/GLfkJZHqQvY" target="_blank">API Calls Using Circle Complete Guide</a>
 - NOTION DOC : <a href="https://marbled-diplodocus-2c2.notion.site/CIRCLE-COLLECTION-API-USAGE-c648aa3a9c60477fa3216b92667d8a0a" target="_blank">Notion Doc</a>
 ---
