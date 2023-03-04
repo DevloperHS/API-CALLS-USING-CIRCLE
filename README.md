@@ -6,13 +6,13 @@ Circle API Collection Allow Users To Perform A Lot Of Task. This Repo Contains G
 ---
 
 ### IMPORTANT LINKS USED IN TUTORIAL
-- YOUTUBE VIDEO : [API Calls Using Circle Complete Guide](https://youtu.be/GLfkJZHqQvY)
-- NOTION DOC : [Notion Doc](https://marbled-diplodocus-2c2.notion.site/CIRCLE-COLLECTION-API-USAGE-c648aa3a9c60477fa3216b92667d8a0a)
+- YOUTUBE VIDEO : <a href="https://youtu.be/GLfkJZHqQvY" target="_blank">API Calls Using Circle Complete Guide</a>
+- NOTION DOC : <a href="https://marbled-diplodocus-2c2.notion.site/CIRCLE-COLLECTION-API-USAGE-c648aa3a9c60477fa3216b92667d8a0a" target="_blank">Notion Doc</a>
 ---
 
 ### SOCIAL LINKS 
-- [TWITTER](https://twitter.com/devloper_hs)
-- [LINKEDIN](https://www.linkedin.com/in/devloper-hs/)
-- [YOUTUBE](https://www.youtube.com/@devloper_hs)
+- <a href="https://twitter.com/devloper_hs" target="_blank">TWITTER</a>
+- <a href="https://www.linkedin.com/in/devloper-hs" target="_blank">LINKEDIN</a>
+- <a href="https://www.youtube.com/@devloper_hs" target="_blank">YOUTUBE</a>
 
 &copy; Learn With Harsh | @devloper_hs | 2023
